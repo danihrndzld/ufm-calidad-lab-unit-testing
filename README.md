@@ -1,7 +1,8 @@
 # Laboratorio: Pruebas Unitarias
 
 **Calidad y Automatización en Ingeniería de Software** — UFM, Semestre 2, 2026
-Módulo 3: Automatización de bajo nivel (Python)
+Se introduce en el Módulo 1 (tipos y niveles de prueba, nivel unitario) y se
+retoma con más profundidad en el Módulo 3 (`pytest`, TDD, dobles de prueba).
 
 ---
 
